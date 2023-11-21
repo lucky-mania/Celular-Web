@@ -13,7 +13,7 @@ html, body{
 }
 
 body{
-    background: url('../imagens/fundo-madeira.jpg') no-repeat top center;
+    background: url('../imagens/pexels-darwis-alwan-1735675.jpg') no-repeat top center;
     background-size: cover;/*cobri a tela inteira*/
     background-attachment: fixed;/*para ficar fixo o fundo*/
 }
@@ -32,7 +32,7 @@ section#telefone{
     height: 627px;
     width: 311px;
     background-color: blue;
-    background: url('../imagens/frame-iphone.png') no-repeat;
+    background: url('../imagens/frame-iphonev1.png')no-repeat;
 
 }
 
